@@ -1,8 +1,8 @@
-### Hi there!, I'm Mars welcome to my Github. 🌱 👯
+### Hi there!, I'm Marcellus welcome to my Github. 🌱 👯
 
 
 # About Me 🚀
-💻 I’m a Full-stack Engineer (Blockchain/Web3) with a bachelor's degree in Electrical and Electronic Engineering.
+💻 I’m a Full-Stack Software Engineer with a bachelor's degree in Electrical and Electronic Engineering.
 
   I'm an Incurable Optimist, a modern Polymath, Tech Savvy. I'm a Blockchain Software Developer 🚀
   
