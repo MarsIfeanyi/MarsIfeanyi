@@ -6,7 +6,7 @@
 
   I'm an Incurable Optimist, a modern Polymath, Tech Savvy. I'm a Blockchain Software Developer 🚀
   
-** ⚡ Techology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all 
+* ⚡ Techology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all 
 
 [![Mars's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsIfeanyi)](https://github.com/MarsIfeanyi/github-readme-stats)
 
