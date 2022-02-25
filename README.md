@@ -1,33 +1,46 @@
-### Hi there!, I'm Marcellus welcome to my Github. 🌱 👯
+### Hi there! I'm Marcellus, welcome to my GitHub. 🌱
 
+<hr />
 
-# About Me 🚀
-💻 I’m a Full-Stack Software Engineer with a bachelor's degree in Electrical and Electronic Engineering.
+<a href="https://www.linkedin.com/in/Marcellus-Ifeanyi/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:Marschalice@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-  I'm an Incurable Optimist, a modern Polymath, Tech Savvy. I'm a Blockchain Software Developer 🚀
+<br/>
+
+### About Me 🚀
+
+💻 I’m a Full-Stack Software Engineer with a bachelor's degree in Electrical and Electronic Engineering.</br> </br>
+
+I'm an Incurable Optimist, a modern Polymath, Tech Savvy. I'm a Blockchain Software Developer 🚀 </br> </br>
+
+<b><i>⚡ Techology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all
+
+<br/>
+<hr />
+
+<div align="center">
+  <a href="https://github.com/MarsIfeanyi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarsIfeanyi&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsIfeanyi&layout=compact&langs_count=7&theme=gradient"/>
+</div>
+
+## ⚡ Technologies I love and use
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-* ⚡ Techology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all 
+  <img align="center" alt="solidity" height="30" width="40" src="https://https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg">
 
-[![Mars's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsIfeanyi)](https://github.com/MarsIfeanyi/github-readme-stats)
+  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsIfeanyi&layout=compact)](https://github.com/MarsIfeanyi/github-readme-stats)
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  
+  <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Html/Html-plain.svg">
 
+  <img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Css/Css-original.svg">
 
-
-## ⚡ Technologies  I love to Use
-   
-
-<!--
-**MarsIfeanyi/MarsIfeanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
