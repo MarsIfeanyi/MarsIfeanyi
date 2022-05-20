@@ -17,7 +17,7 @@
 
 I'm an Incurable Optimist, a modern Polymath, Tech Savvy. I'm a Blockchain Software Developer 🚀 </br> </br>
 
-<b><i>⚡ Techology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all
+<b><i>⚡ Technology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all
 
 <br/>
 <hr />
