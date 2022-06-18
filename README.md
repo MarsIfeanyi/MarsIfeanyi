@@ -17,7 +17,7 @@
 
 I'm an Incurable Optimist, a modern Polymath, Tech Savvy. I'm a Blockchain Software Developer 🚀 </br> </br>
 
-I write Softwares and Blockchain Codes and build application and Decentralized Applications(Dapps) to Interacts with Human, Solve Business Problems and Improve Life </br> </br>
+I write Softwares and Blockchain Codes and Build Applications and Decentralized Applications(Dapps) that Interacts with Human, Solve Business Problems, Secured and Cost Efficient </br> </br>
 
 <b><i>⚡ Technology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all
 
