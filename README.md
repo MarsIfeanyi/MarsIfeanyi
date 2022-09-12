@@ -13,11 +13,11 @@
 
 ### About Me 🚀
 
-💻 I’m a Software and Blockchain Engineer with a bachelor's degree in Electrical and Electronic Engineering.</br> </br>
+ 
 
-I'm an Incurable Optimist, a modern Polymath, Tech Savvy. I'm a Blockchain Software Developer 🚀 </br> </br>
+I'm an Incurable Optimist, a modern Polymath, Tech Savvy. Software Engineer💻 🚀 with a bachelor's degree in Electrical and Electronic Engineering</br> </br>
 
-I write Software and Blockchain Codes and Build Applications and Decentralized Applications(Dapps) that Interact with Humans, Solve Business Problems, in Secured and Cost-Efficient  Algorithm </br> </br>
+I like Building People and Products
 
 <b><i>⚡ Technology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all
 
