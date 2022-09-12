@@ -15,8 +15,7 @@
 
  
 
-I'm an Incurable Optimist, a modern Polymath, Tech Savvy. Software Engineer💻 🚀 with a bachelor's degree in Electrical and Electronic Engineering</br> </br>
-
+I'm an Incurable Optimist, a modern Polymath, Tech Savvy, Software Engineer💻 🚀 with Bachelor's degree in Electrical and Electronic Engineering</br> </br>
 I like Building People and Products
 
 <b><i>⚡ Technology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all
