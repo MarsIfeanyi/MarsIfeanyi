@@ -40,7 +40,7 @@ I Love Building People and Products
 
 -  💬 Ask me about **JavaScript, React, TypeScript, Solidity, Rust, and Blockchains**
 
--  📫 How to reach me  **marsifeanyi.code@gmail.com**
+-  📫 How to reach me  **0xMarsifeanyi@gmail.com**
 
 -  📄 Know about my experiences [LinkedIn](https://linkedin.com/in/marcellus-ifeanyi)
 
