@@ -29,7 +29,10 @@ I Love Building People and Products
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=marsifeanyi&label=Profile%20views&color=0e75b6&style=plastic" alt="marsifeanyi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marsifeanyi" alt="marsifeanyi" /></a> </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=marsifeanyi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 <hr>
@@ -62,6 +65,15 @@ I Love Building People and Products
   
 <br/>
 <hr />
+
+
+
+
+
+
+
+
+
 
 <div align="center">
   <a href="https://github.com/MarsIfeanyi">
@@ -107,17 +119,15 @@ I Love Building People and Products
 </a>
 
 
+<hr>
 
- 
- 
-<!--   
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="40" height="40"/> </a>  
- 
+  
+  ### 🔝 Top Contributed Repo
+![MarsIfeanyi's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=MarsIfeanyi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
   
   
-  
-  
-   -->
+   
   
   
   
