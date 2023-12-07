@@ -5,7 +5,7 @@
 ### About Me 🚀
 
  
-A modern Polymath, FullStack Blockchain Developer💻 🚀 | Quant and Charterred Trader</br> </br>
+A modern Polymath, FullStack Blockchain Developer💻 🚀 | Quant and Chartered Trader</br> </br>
 I Love Building People and Products
 
 <b><i>⚡ Technology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all </b>
