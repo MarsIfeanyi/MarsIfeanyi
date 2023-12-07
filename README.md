@@ -5,7 +5,7 @@
 ### About Me 🚀
 
  
-I'm an Incurable Optimist, a modern Polymath, Tech Savvy, Software Engineer💻 🚀 | Web3-Blockchain Software Developer</br> </br>
+A modern Polymath, FullStack Blockchain Developer💻 🚀 | Quant and Charterred Trader</br> </br>
 I Love Building People and Products
 
 <b><i>⚡ Technology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all </b>
@@ -43,7 +43,7 @@ I Love Building People and Products
 
 -  💬 Ask me about **JavaScript, React, TypeScript, Solidity, Rust, and Blockchains**
 
--  📫 How to reach me  **0xMarsifeanyi@gmail.com**
+-  📫 How to reach me  **Marschalice@gmail.com**
 
 -  📄 Know about my experiences [LinkedIn](https://linkedin.com/in/marcellus-ifeanyi)
 
