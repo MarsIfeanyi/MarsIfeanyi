@@ -5,7 +5,7 @@
 ### About Me 🚀
 
  
-A modern Polymath, FullStack Blockchain Developer💻 🚀 | Quant and Chartered Trader</br> </br>
+A modern Polymath | Trading Systems and Software Developer |  Quant and Chartered Trader | FullStack Blockchain Developer💻 🚀 |</br> </br>
 I Love Building People and Products
 
 <b><i>⚡ Technology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all </b>
@@ -37,11 +37,11 @@ I Love Building People and Products
 
 <hr>
 
-- 🔭 I’m currently open to job roles as  **Frontend Engineer / Blockchain Engineer**
+- 🔭 I’m currently open to job roles as  **Quant Trader | Quant Analyst | Quant Developer | Data Analyst | Blockchain Developer | Blockchain Data Analyst**
 
 -  📝 I regularly write articles on [Hashnode](https://marsifeanyi.hashnode.dev/) 
 
--  💬 Ask me about **JavaScript, React, TypeScript, Solidity, Rust, and Blockchains**
+-  💬 Ask me about **Python, JavaScript, React, TypeScript, Solidity, Rust, and Blockchains**
 
 -  📫 How to reach me  **Marschalice@gmail.com**
 
