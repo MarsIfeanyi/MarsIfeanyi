@@ -53,15 +53,15 @@ I Love Building People and Products
 
 
 
-
 <div align="center">
   <a href="https://github.com/MarsIfeanyi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarsIfeanyi&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsIfeanyi&layout=compact&langs_count=7&theme=gradient"/>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marsifeanyi&" alt="marsifeanyi" /></p>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MarsIfeanyi&show_icons=true&theme=gradient&include_all_commits=true&count_private=true" alt="MarsIfeanyi GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsIfeanyi&layout=compact&langs_count=7&theme=gradient" alt="Top languages" />
+  </a>
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=MarsIfeanyi&theme=default" alt="MarsIfeanyi GitHub streak" />
+  </p>
 </div>
-  
-
 
 
 
