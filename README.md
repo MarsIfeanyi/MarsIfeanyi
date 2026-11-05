@@ -109,18 +109,17 @@ I Love Building People and Products
 ### Data Engineering & Analytics
 
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" alt="SQL" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"/></a>
   <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/apachespark/apachespark-original.svg" alt="PySpark" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="40" height="40"/></a>
-  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" alt="dbt" width="40" height="40"/></a>
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/dbt-icon.svg" alt="dbt" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/></a>
 </p>
-
 
 
 
