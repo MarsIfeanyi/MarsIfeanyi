@@ -5,10 +5,9 @@
 ### About Me 🚀
 
  
-A modern Polymath | Trading Systems and Software Developer |  Quant and Chartered Trader | FullStack Blockchain Developer💻 🚀 |</br> </br>
+A modern Polymath | Trading Systems and Software Developer |  Quant and Chartered Trader | Data & AI/ML Engineer|</br> </br>
 I Love Building People and Products
 
-<b><i>⚡ Technology Inspires and Drives me and I strongly believe that with Technology and Software, we can build and Shipped Solutions and create Shared Economy for all </b>
 
   <hr>
 
@@ -32,33 +31,13 @@ I Love Building People and Products
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=marsifeanyi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-<hr>
-
-- 🔭 I’m currently open to job roles as  **Quant Trader | Quant Analyst | Quant Developer | Data Analyst | Blockchain Developer | Blockchain Data Analyst**
-
--  📝 I regularly write articles on [Hashnode](https://marsifeanyi.hashnode.dev/) 
-
--  💬 Ask me about **Python, JavaScript, React, TypeScript, Solidity, Rust, and Blockchains**
-
--  📫 How to reach me  **Marschalice@gmail.com**
-
--  📄 Know about my experiences [LinkedIn](https://linkedin.com/in/marcellus-ifeanyi)
-
-
-  
-  
-  
   
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Mars_Energy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marsifeanyi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcellus-ifeanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcellus-ifeanyi" height="30" width="40" /></a>  
 <a href="https://www.youtube.com/@marsifeanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marsifeanyi" height="30" width="40" /></a> 
-<a href="https://www.facebook.com/Marscellusifeanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marsifeanyi" height="30" width="40" /></a>  
-<a href="https://medium.com/@Mars_Ifeanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Mars_Ifeanyi" height="30" width="40" /></a>  
+<a href="https://medium.com/@MarsIfeanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Mars_Ifeanyi" height="30" width="40" /></a>  
 <a href="https://marsifeanyi.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://marsifeanyi.hashnode.dev/" height="30" width="40" /></a>
   
 </p> 
@@ -83,19 +62,7 @@ I Love Building People and Products
 </div>
   
 
-  <hr>
-  
-  ### Blog Posts (Technical Articles)
-<!-- BLOG-POST-LIST:START -->
-- [Web3-Blockchain and the Decentralization of the Internet](https://marsifeanyi.hashnode.dev/web3-blockchain-and-decentralization-of-the-internet)
-- [The Future and Use Cases of Blockchain Technology](https://marsifeanyi.hashnode.dev/the-future-and-use-cases-of-blockchain-technology)
-- [Crypto Project Research ~ The Investor's Guide](https://marsifeanyi.hashnode.dev/crypto-project-research-the-investors-guide)
-- [Git and Github: Comprehensive Guide for Beginners](https://marsifeanyi.hashnode.dev/git-and-github-comprehensive-guide-for-beginners)
-- [JavaScript: Core Features and Attributes](https://marsifeanyi.hashnode.dev/javascript-core-features-and-attributes)
-<!-- BLOG-POST-LIST:END -->
-  
-  
-  <hr>
+
 
 ## ⚡ Language and Tools
  
@@ -120,6 +87,42 @@ I Love Building People and Products
 
 
 <hr>
+
+## ⚡ Languages and Tools
+
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/></a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/hardhat/hardhat-original.svg" alt="Hardhat" width="40" height="40"/></a>
+</p>
+
+### Data Engineering & Analytics
+
+<p align="left">
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/apachespark/apachespark-original.svg" alt="PySpark" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="40" height="40"/></a>
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" alt="dbt" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/></a>
+</p>
+
+
+
 
   
   ### 🔝 Top Contributed Repo
